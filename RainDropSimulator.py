@@ -109,7 +109,7 @@ def drawCanvas():
 
 drawCanvas()
 
-while count < 100:
+while count < 2000:
   
    drawCanvas()
   
